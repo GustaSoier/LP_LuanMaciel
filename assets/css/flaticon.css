@@ -28,6 +28,18 @@
 font-style: normal;
 }
 
+.flaticon-tooth-clean:before {
+  content: "\f103"; /* Exemplo, o código pode variar */
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  text-align: center;
+}
+
+
 .flaticon-pen:before { content: "\f100"; }
 .flaticon-speaker:before { content: "\f101"; }
 .flaticon-portfolio:before { content: "\f102"; }
